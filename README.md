@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+## Link for the application:
+
+https://fbclone7.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
